@@ -1,0 +1,10 @@
+h2 {
+  font-size: 40 px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  font-feature-settings: "blwf";
+}
+.container {
+  text-align: center;
+  margin-top: 25px;
+}
